@@ -7,6 +7,9 @@ connect to your server, press F8 type in start esx_scoreboard
 
 To view the interface press delete (not backspace)
 
+#Preview:
+https://imgur.com/Pgzpjz1
+
 # Credits
 - Stadus, original resource
 - LifeGoal, design
